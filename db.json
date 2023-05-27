@@ -1,0 +1,58 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": [
+          "HTML,CSS,JavaScript"
+        ],
+        "hourly_rate": "20",
+        "profile_picture": "https://tse1.mm.bing.net/th?id=OIP.j8yd8dJ5215WbgQ0NsLzuAHaNK&pid=Api&rs=1&c=1&qlt=95&w=69&h=123",
+        "isBooked": true
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "password": "password",
+        "profession": "Graphic Designer",
+        "skills": [
+          "Photoshop",
+          "Illustrator"
+        ],
+        "hourly_rate": 30,
+        "profile_picture": "https://tse1.mm.bing.net/th?id=OIP.j8yd8dJ5215WbgQ0NsLzuAHaNK&pid=Api&rs=1&c=1&qlt=95&w=69&h=123",
+        "isBooked": true
+      },
+      {
+        "name": "sourabh rajput",
+        "email": "sourabh.rajput.22082001@gmail.com",
+        "password": "s",
+        "profession": "Web Developer",
+        "skills": [
+          "HTML,CSS,JavaScript"
+        ],
+        "hourly_rate": "2",
+        "profile_picture": "https://tse3.mm.bing.net/th?id=OIP.FP8wuR2w9ZKyLz8Xjfg8-gHaLH&pid=Api&P=0&h=180",
+        "isBooked": false,
+        "id": 3
+      }
+    ],
+    "admin": [
+      {
+        "id": 1,
+        "name": "sourabh",
+        "email": "s@gmail.com",
+        "password": "s12"
+      },
+      {
+        "name": "s",
+        "email": "s",
+        "password": "s",
+        "id": 2
+      }
+    ]
+  }
